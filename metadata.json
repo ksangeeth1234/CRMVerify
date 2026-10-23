@@ -1,0 +1,6 @@
+{
+  "name": "Master Excel Student Verification System",
+  "description": "Modern educational student verification platform matching incoming student lists against the master student database with multi-field search and conflict resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
